@@ -4,7 +4,7 @@ This is a **sample markdown** file that I can type a _description_ that will sho
 
 ## This is a subtitle at level two
 
-Someone once told me the following quote:
+Someone once told me the following quote: 
 
 >Don't let your fears stand
 >in the way of your dreams.
@@ -12,3 +12,7 @@ Someone once told me the following quote:
 <ins>This will be underlineded</ins>
 
 This willhave a ~~strikethrough~~
+
+This is an image I have:
+
+![This is my image](IMG_9451.jpeg)
